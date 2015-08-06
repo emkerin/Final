@@ -1,0 +1,28 @@
+#container {
+   position: relative;
+}
+#column-left {
+   width: 25%;
+   min-width: 300px;
+   background-color: #333333;
+   color: white;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 1em;
+   line-height: 2.25em;
+   text-indent: left 20px;
+}
+#elizabeth {
+   font-family: 'Libre Baskerville', serif;
+   font-size: 1.5em;
+   color: white;
+}
+#column-right {
+   position: absolute;
+   top: 10px;
+   right: 10px;
+   bottom: 10px;
+   width: 250px;
+}
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'Quicksand', sans-serif;
