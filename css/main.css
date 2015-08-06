@@ -1,28 +1,43 @@
 #container {
    position: relative;
 }
-#column-left {
+#Menu {
    width: 25%;
-   min-width: 300px;
    background-color: #333333;
    color: white;
    font-family: 'Quicksand', sans-serif;
-   font-size: 1em;
-   line-height: 2.25em;
-   text-indent: left 20px;
+   font-size: 1rem;
+   line-height: 2.25rem;
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 100vh;
+   text-align: center;
+}
+#Menu img {
+   width: 80%;
 }
 #elizabeth {
    font-family: 'Libre Baskerville', serif;
-   font-size: 1.5em;
+   font-size: 1.5rem;
    color: white;
 }
 #column-right {
-   position: absolute;
+   position: center center scroll
    top: 10px;
    right: 10px;
    bottom: 10px;
    width: 250px;
 }
+.img {
+   min-width: 20%;
+   position: fixed;
+}
 
+h2 {
+   padding-left: 20%;
+   padding-top: 5%;
+   padding-right: 20%;
+}
 font-family: 'Libre Baskerville', serif;
 font-family: 'Quicksand', sans-serif;
