@@ -64,7 +64,7 @@ a:hover {
 
 }
 
-.para {
+#para {
    position: scroll;
    color: #333333;
    font-family: 'Quicksand', sans-serif;
@@ -73,13 +73,13 @@ a:hover {
    text-align: left;
    padding: 1%;
    padding-right: 5%;
-
 }
 
 
 #headshot {
    margin-top: 10%;
    margin-left: 10%;
+   margin-bottom: 50%;
    padding-right: 5%;
    float: left;
    clear: left;
