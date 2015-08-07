@@ -6,7 +6,7 @@
    background-color: #333333;
    color: white;
    font-family: 'Quicksand', sans-serif;
-   font-size: 1rem;
+   font-size: 1.2rem;
    line-height: 2.25rem;
    position: fixed;
    top: 0;
@@ -14,13 +14,15 @@
    height: 100vh;
    text-align: center;
 }
+
 #Menu img {
    width: 80%;
 }
 #elizabeth {
    font-family: 'Libre Baskerville', serif;
-   font-size: 1.5rem;
+   font-size: 1.3rem;
    color: white;
+   padding-bottom: 5%;
 }
 #column-right {
    position: center center scroll
@@ -36,8 +38,15 @@
 
 h2 {
    padding-left: 20%;
-   padding-top: 5%;
    padding-right: 20%;
 }
-font-family: 'Libre Baskerville', serif;
-font-family: 'Quicksand', sans-serif;
+
+a:link {
+color: white;
+}
+a:visited {
+color: gray;
+}
+a:hover {
+  color: #f4777c;
+}
