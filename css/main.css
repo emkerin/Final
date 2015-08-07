@@ -3,8 +3,8 @@
 }
 #Menu {
    width: 25%;
-   background-color: #333333;
-   color: white;
+   background-color: #e0cbd5;
+   color:  #333333;
    font-family: 'Quicksand', sans-serif;
    font-size: 1.2rem;
    line-height: 2.25rem;
@@ -21,7 +21,7 @@
 #elizabeth {
    font-family: 'Libre Baskerville', serif;
    font-size: 1.3rem;
-   color: white;
+   color:  #333333;
    padding-bottom: 5%;
 }
 
@@ -94,7 +94,7 @@ a:hover {
 #img11 {
    width: 50%;
    float: left;
-   position: scroll
+   position: scroll;
 }
 #img13 {
    width: 50%;
