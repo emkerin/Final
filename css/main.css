@@ -24,13 +24,7 @@
    color: white;
    padding-bottom: 5%;
 }
-#column-right {
-   position: center center scroll
-   top: 10px;
-   right: 10px;
-   bottom: 10px;
-   width: 250px;
-}
+
 .img {
    min-width: 20%;
    position: fixed;
@@ -49,4 +43,61 @@ color: gray;
 }
 a:hover {
   color: #f4777c;
+}
+
+#Photos {
+   width: 75%;
+   float: right;
+   padding-left: 25%;
+}
+
+#img1 {
+   width: 50%;
+   float: left;
+   position: scroll;
+}
+#img2 {
+   width: 50%;
+   float: left;
+   position: scroll;
+}
+#img3 {
+   width: 50%;
+   float: left;
+   position: scroll
+}
+#img4 {
+   width: 50%;
+   float: left;
+   position: scroll
+}
+#img5 {
+   width: 50%;
+   float: left;
+   position: scroll;
+}
+#img6 {
+   width: 50%;
+   float: left;
+   position: scroll;
+}
+#img7 {
+   width: 50%;
+   float: left;
+   position: scroll
+}
+#img9 {
+   width: 50%;
+   float: left;
+   position: scroll;
+}
+#img11 {
+   width: 50%;
+   float: left;
+   position: scroll
+}
+#img13 {
+   width: 50%;
+   float: left;
+   position: scroll
 }
