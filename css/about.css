@@ -30,7 +30,7 @@
    position: fixed;
 }
 
-h2 {
+h1 {
    padding-left: 20%;
    padding-right: 20%;
 }
@@ -45,24 +45,45 @@ a:hover {
   color: #f4777c;
 }
 
-div div {
 
-}
 #info {
    width: 75%;
    position: scroll;
-   color:  #333333;
-   font-family: 'Quicksand', sans-serif;
-   font-size: 36px;
-   line-height: 2.25rem;
-   text-align: left;
-   padding-top: 25vh;
-   padding-left: 40%;
+   float: right;
+   padding-left: 5%;
 }
 
-#headshot {
-   float: right;
-   padding: 20%;
-   height: 1vh;
-   width: 1vh;
+#titleinfo {
+   color:  #f4777c;
+   margin-top: 10%;
+   font-family: 'Baskerville Libre', serif;
+   font-size: 36px;
+   line-height: 2.25rem;
+   font-style: italic;
+   text-align: left;
+
 }
+
+#para {
+   position: scroll;
+   color: #333333;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 18px;
+   line-height: 2.25rem;
+   text-align: left;
+   padding: 1%;
+   padding-right: 5%;
+
+}
+
+
+#headshot {
+   margin-top: 10%;
+   margin-left: 10%;
+   padding-right: 5%;
+   float: left;
+   clear: left;
+   clear: below;
+}
+
+

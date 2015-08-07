@@ -1,0 +1,89 @@
+#container {
+   position: relative;
+}
+#Menu {
+   width: 25%;
+   background-color: #e0cbd5;
+   color:  #333333;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 1.2rem;
+   line-height: 2.25rem;
+   position: fixed;
+   top: 0;
+   left: 0;
+   height: 100vh;
+   text-align: center;
+}
+
+#Menu img {
+   width: 80%;
+}
+#elizabeth {
+   font-family: 'Libre Baskerville', serif;
+   font-size: 1.3rem;
+   color:  #333333;
+   padding-bottom: 5%;
+}
+
+.img {
+   min-width: 20%;
+   position: fixed;
+}
+
+h1 {
+   padding-left: 20%;
+   padding-right: 20%;
+}
+
+a:link {
+color: white;
+}
+a:visited {
+color: gray;
+}
+a:hover {
+  color: #f4777c;
+}
+
+
+#info {
+   width: 75%;
+   position: scroll;
+   float: right;
+   padding-left: 5%;
+}
+
+#titleinfo {
+   color:  #f4777c;
+   margin-top: 10%;
+   font-family: 'Baskerville Libre', serif;
+   font-size: 36px;
+   line-height: 2.25rem;
+   font-style: italic;
+   text-align: left;
+
+}
+
+.para {
+   position: scroll;
+   color: #333333;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 18px;
+   line-height: 2.25rem;
+   text-align: left;
+   padding: 1%;
+   padding-right: 5%;
+
+}
+
+
+#headshot {
+   margin-top: 10%;
+   margin-left: 10%;
+   padding-right: 5%;
+   float: left;
+   clear: left;
+   clear: below;
+}
+
+
