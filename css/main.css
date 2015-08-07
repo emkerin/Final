@@ -83,12 +83,10 @@ a:hover {
 }
 
 #greece {
-   clear: left;
    width: 245px;
    height: auto;
    float: left;
    position: scroll;
-   padding-left: 10px;
    padding-bottom: 10px;
    padding-right: 10px;
 }
@@ -98,9 +96,9 @@ a:hover {
    height: auto;
    float: left;
    position: scroll;
+   padding-left: 10px;
    padding-right: 10px;
    padding-bottom: 10px;
-   padding-right: 10px;
 }
 
 #lauren {
